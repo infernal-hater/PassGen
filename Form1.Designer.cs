@@ -59,11 +59,11 @@ namespace PassGen
             // 
             // b_Clear
             // 
-            this.b_Clear.Location = new System.Drawing.Point(117, 75);
+            this.b_Clear.Location = new System.Drawing.Point(117, 74);
             this.b_Clear.Name = "b_Clear";
             this.b_Clear.Size = new System.Drawing.Size(93, 23);
             this.b_Clear.TabIndex = 5;
-            this.b_Clear.Text = "Clear";
+            this.b_Clear.Text = "Очистить поле";
             this.b_Clear.UseVisualStyleBackColor = true;
             this.b_Clear.Click += new System.EventHandler(this.b_Clear_Click);
             // 
